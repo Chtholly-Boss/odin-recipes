@@ -1,7 +1,29 @@
 .recipes{
-    background-color: black;
-    color: white;
-    font-weight: bold;
+    background-color: lightgreen;
+    padding: 5px;
+}
+
+.title{
+    background:linear-gradient(135deg,#42e695,#3bb2b8);
+    color:white;
+    text-align: center;
+    padding: 3px;
+}
+
+.dishes{
+    display: block;
+}
+
+li{
+    margin: 5px,auto;
+    padding: 5px;
+}
+
+a{
+    display: block;
+    text-align: center;
     font-size: large;
-    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #57606f;
+    height: 30px;
 }
